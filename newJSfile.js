@@ -1,1 +1,1 @@
-//added a new javaScript file
+//added a new javaScript <THIS SHOULD CREATE A CONFLICT> file
